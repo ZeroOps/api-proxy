@@ -58,8 +58,8 @@
       <file leaf-file-name="ComputeResource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/web/ComputeResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3286385">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5399061">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,9 +197,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/web/response/SuccessfulResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/web/response/MsgResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/ops/OpsService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/web/ComputeResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/ops/openstack/OpenStackImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/config/RootConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/web/ComputeResource.java" />
       </list>
     </option>
   </component>
@@ -1100,8 +1100,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bingotree/zops/api/web/ComputeResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3286385">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5399061">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
