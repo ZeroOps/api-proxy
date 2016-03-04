@@ -1,0 +1,5 @@
+127.0.0.1 - - [04/Mar/2016:17:55:11 +0800] "POST /v1/resource/action/create HTTP/1.1" 404 1001 http-bio-8080-exec-1 64
+127.0.0.1 - - [04/Mar/2016:17:55:32 +0800] "POST /v1/resources HTTP/1.1" 200 41 http-bio-8080-exec-3 160
+127.0.0.1 - - [04/Mar/2016:17:55:49 +0800] "POST /v1/machiness HTTP/1.1" 404 975 http-bio-8080-exec-5 3
+127.0.0.1 - - [04/Mar/2016:17:55:53 +0800] "POST /v1/machines HTTP/1.1" 200 30 http-bio-8080-exec-7 6
+127.0.0.1 - - [04/Mar/2016:17:56:03 +0800] "POST /v1/machines/1/eat/cpu HTTP/1.1" 200 30 http-bio-8080-exec-9 11
