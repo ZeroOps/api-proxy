@@ -18,8 +18,9 @@ public class ResourceResponse {
         return result;
     }
 
-    public void setResult(int result) {
+    public ResourceResponse setResult(int result) {
         this.result = result;
+        return this;
     }
 
     public int getId() {

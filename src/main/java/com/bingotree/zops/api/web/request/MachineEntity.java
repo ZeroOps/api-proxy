@@ -5,6 +5,8 @@ package com.bingotree.zops.api.web.request;
  */
 public class MachineEntity {
 
+    private int roundId;
+
     private int cpuEatNumber; // 吃掉多少CPU
     private int memoryEatSize; //吃点多少内存
 
@@ -12,7 +14,25 @@ public class MachineEntity {
     private int memorySize;
     private int diskSize;
 
+    private String ip;
+
     public MachineEntity() {
+    }
+
+    public int getRoundId() {
+        return roundId;
+    }
+
+    public void setRoundId(int roundId) {
+        this.roundId = roundId;
+    }
+
+    public String getIp() {
+        return ip;
+    }
+
+    public void setIp(String ip) {
+        this.ip = ip;
     }
 
     public int getCpuEatNumber() {

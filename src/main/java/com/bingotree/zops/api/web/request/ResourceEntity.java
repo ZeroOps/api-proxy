@@ -3,13 +3,23 @@ package com.bingotree.zops.api.web.request;
 
 public class ResourceEntity {
 
+    private int roundId;
+
     private int memorySize = 512; // unit is MB
     private int cpuNumber = 16;
-    private int diskSize = 2048; // unit is MB
+    private int diskSize = 2; // unit is GB
     private String currentMachineIp;
     private String targetMachineIp;
 
     public ResourceEntity() {
+    }
+
+    public int getRoundId() {
+        return roundId;
+    }
+
+    public void setRoundId(int roundId) {
+        this.roundId = roundId;
     }
 
     public int getMemorySize() {

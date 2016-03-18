@@ -15,15 +15,17 @@ public class MachineResponse {
         return result;
     }
 
-    public void setResult(int result) {
+    public MachineResponse setResult(int result) {
         this.result = result;
+        return this;
     }
 
     public int getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public MachineResponse setId(int id) {
         this.id = id;
+        return this;
     }
 }
